@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0114/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: 其他, offset: 0, content: 達磨大師悟性論, id: KR6q0114_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 達磨大師悟性論
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1219.xml
+    old_id: X63n1219
+hash: sha256:ca4bc23e3b5a4bc510efa65c39ca476ee4ba7cf30d3706ee435560cdb9a113c3

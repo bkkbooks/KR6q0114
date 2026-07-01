@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6q0114/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0114/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 達磨大師悟性論
+  identifiers:
+    krp: KR6q0114
+    cbeta: X63n1219
+    cbeta_old_id: X63n1219
+    authorityid: CA0000525
+    json_key: X1219
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X63/X63n1219.xml
+    old_id: X63n1219
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0114_000-X.yaml, hash: 'sha256:ca4bc23e3b5a4bc510efa65c39ca476ee4ba7cf30d3706ee435560cdb9a113c3'}
+  - {seq: 1, filename: KR6q0114_001-X.yaml, hash: 'sha256:9b51cf6e6efa14f8245d293a2d4cf5850cc496ece592d3c1894d113d04a04865'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0114_000-X.markers.yaml, hash: 'sha256:06a2861349cbf1e5983199b0954d5f2b8638b65c3efba5af87bc726758b4121a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0114_001-X.markers.yaml, hash: 'sha256:7cdf0eae3f326deaecc9cf27f5211819e81641f902eb589ee88dc22b73dab5b3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0114_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 達磨大師悟性論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0114_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3699
+  label: 達磨大師悟性論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0114_X_001-mulu-1
+    span:
+    - body
+    - 3696
+    - 3696
+  label: 真性頌
+  type: mulu
+  level: 1
+hash: sha256:45f87fcdcf872b050ed5d2973f9fe9cc5daa09a65d7653ef5f38e8775e766301
