@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0114/v1
 canonical_location: https://kanripo.org/bkk/KR6q0114/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 達磨大師悟性論
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0114_000.yaml, hash: 'sha256:ca4bc23e3b5a4bc510efa65c39ca476ee4ba7cf30d3706ee435560cdb9a113c3'}
-  - {seq: 1, filename: KR6q0114_001.yaml, hash: 'sha256:9b51cf6e6efa14f8245d293a2d4cf5850cc496ece592d3c1894d113d04a04865'}
+  - {seq: 1, filename: KR6q0114_001.yaml, hash: 'sha256:f7fb91520eebabca5e7bef8bffdb2ff53244f419cf81b19decb03545cc94fcc1'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0114_000.markers.yaml, hash: 'sha256:64fd74b6928ceaf13e576c9aefd9f9b19bedc7225f12252bea73a50609c99924'}
-  - {seq: 1, role: markers, filename: assets/KR6q0114_001.markers.yaml, hash: 'sha256:5dd0f4d210b33aec99b72ef5f0393a5c3268ecc9cdeba809797df58f5eebc80a'}
+  - {seq: 1, role: markers, filename: assets/KR6q0114_001.markers.yaml, hash: 'sha256:454fd40d71451532230275434887d565f1205eebee9dbcd7fc12417af61793ab'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,4 +57,7 @@ table_of_contents:
   label: 真性頌
   type: mulu
   level: 1
-hash: sha256:472ebaa5dfa58e5c62f39cb2969b6ddf178b46bb5dd915548ad24ed2075535ee
+hash: sha256:4dcfe539f3ba69073dd4e09f74027aed95b5527ce9c157a9f6073c3300dd25ca
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
